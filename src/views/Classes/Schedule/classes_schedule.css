@@ -1,0 +1,16 @@
+.sched_date{
+    background: #4caf50;
+}
+.react-calendar__tile--now {
+    background: white;
+}
+.react-calendar button {
+    border-radius: 3px;
+}
+.react-calendar{
+    display: inline-block;
+    border: none;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 15px -8px rgba(0,0,0,0.43); 
+    box-shadow: 0px 0px 15px -8px rgba(0,0,0,0.43);
+}

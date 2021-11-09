@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "paragonie/ciphersweet": "^2.0"
+    }
+}

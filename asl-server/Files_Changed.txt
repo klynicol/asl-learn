@@ -1,0 +1,16 @@
+server files changed
+
+install_model.php
+Install Controller
+Login Controller
+Welcome Controller
+view/yyyy.php
+routes.php
+Data_Model
+User_Object
+Base_Model
+Common_Helper
+
+
+TODO, remove null dates being inserted
+TODO, add table for email templates
